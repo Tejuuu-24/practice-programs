@@ -1,0 +1,3 @@
+#check sum of digits in name
+def check_sum(n):
+
